@@ -1,0 +1,60 @@
+solarus-quest-editor (1.5.0-4xenial) xenial; urgency=medium
+
+  * Fix compile errors.
+
+ -- Nathan Moore <natedevv@gmail.com>  Sun, 18 Sep 2016 09:18:47 -0700
+
+solarus-quest-editor (1.5.0-3xenial) xenial; urgency=medium
+
+  * Depend on solarus as well as libsolarus-dev
+
+ -- Nathan Moore <natedevv@gmail.com>  Sat, 17 Sep 2016 17:13:28 -0700
+
+solarus-quest-editor (1.5.0-2xenial) xenial; urgency=low
+
+  * Fixes all relevant lintian errors.
+  * Adds .desktop and .menu files.
+
+ -- Nathan Moore <natedevv@gmail.com>  Fri, 16 Sep 2016 17:17:50 -0700
+
+solarus-quest-editor (1.5.0-1xenial) xenial; urgency=low
+
+  * Update to full 1.5.0 release.
+
+ -- Nathan Moore <natedevv@gmail.com>  Wed, 27 Jul 2016 08:58:06 -0700
+
+solarus-quest-editor (1.5.0~pre2-1xenial) xenial; urgency=low
+
+  * Second pre-release of 1.5.0.
+
+ -- Nathan Moore <natedevv@gmail.com>  Tue, 26 Jul 2016 08:52:09 -0700
+
+solarus-quest-editor (1.5.0~pre-1xenial) xenial; urgency=medium
+
+  * Update to a 1.5.0 pre-release.
+
+ -- Nathan Moore <natedevv@gmail.com>  Sat, 23 Jul 2016 12:18:45 -0700
+
+solarus-quest-editor (1.4.5-4xenial) xenial; urgency=medium
+
+  * Explicitly give the solarus build-deps as editor build-deps.
+
+ -- Nathan Moore <natedevv@gmail.com>  Sat, 23 Jul 2016 12:15:19 -0700
+
+solarus-quest-editor (1.4.5-3xenial) xenial; urgency=medium
+
+  * Remove configure overrides. Binary now compiles.
+
+ -- Nathan Moore <natedevv@gmail.com>  Sat, 23 Jul 2016 10:59:29 -0700
+
+solarus-quest-editor (1.4.5-2xenial) xenial; urgency=low
+
+  * Modified debian/rules to try to have it compile.
+
+ -- Nathan Moore <natedevv@gmail.com>  Fri, 22 Jul 2016 17:22:51 -0700
+
+solarus-quest-editor (1.4.5-1) xenial; urgency=low
+
+  * Initial release.
+
+ -- Nathan Moore <natedevv@gmail.com>  Tue, 19 Jul 2016 16:12:07 -0700

@@ -1,0 +1,2 @@
+?package(solarus-quest-editor):needs="X11" section="Games/Tools"\
+  title="Solarus Quest Editor" command="solarus-quest-editor"

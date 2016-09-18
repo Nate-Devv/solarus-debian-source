@@ -1,0 +1,3 @@
+images/logo/sqe-logo.png /usr/share/pixmaps/sqe-logo.png
+resources/solarus-quest-editor.desktop /usr/share/applications
+assets/* /usr/share/solarus-quest-editor/assets
