@@ -1,0 +1,4 @@
+usr/bin/* /usr/games
+debian/*.xpm /usr/share/pixmaps
+gui/resources/images/icon/solarus_launcher_icon_64.png /usr/share/pixmaps
+debian/solarus.desktop /usr/share/applications
