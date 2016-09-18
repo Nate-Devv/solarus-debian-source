@@ -1,6 +1,0 @@
-?package(solarus): needs="X11" \
-        section="Games/Adventure" \
-        title="Solarus Launcher" \
-        command="solarus" \
-        icon32x32="/usr/share/pixmaps/solarus_launcher_icon_32.xpm" \
-        icon16x16="/usr/share/pixmaps/solarus_launcher_icon_16.xpm"
