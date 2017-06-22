@@ -11,8 +11,7 @@ Homepage: http://www.solarus-games.org/
 Package: solarus
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libsolarus (= ${source:Version})
-Recommends: solarus-quest-editor
-Suggests: zsdx, zsxd, zelda-roth-se
+Suggests: zsdx, zsxd, zelda-roth-se, solarus-quest-editor
 Description: C++ ARPG Engine.
  Used to create Zelda-like games and many others!
  Games are written using lua, check out the suggested
@@ -40,3 +39,4 @@ Description: C++ ARPG engine.
  packages for example games.
  .
  This package contains the shared library header files for Solarus
+Replaces: libsolarus-dev (<< ${source:Version})

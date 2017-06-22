@@ -1,3 +1,10 @@
+solarus-quest-editor (1.5.3-1xenial) xenial; urgency=medium
+
+  * Update to new bugfix release.
+  * Add debian/watch file.
+
+ -- Nathan Moore <natedevv@gmail.com>  Thu, 22 Jun 2017 10:35:02 -0700
+
 solarus-quest-editor (1.5.0-4xenial) xenial; urgency=medium
 
   * Fix compile errors.
