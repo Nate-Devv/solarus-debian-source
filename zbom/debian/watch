@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/zbom-$1\.tar\.gz/ \
+  https://github.com/wrightmat/zbom/tags .*/v?(\d\S+)\.tar\.gz

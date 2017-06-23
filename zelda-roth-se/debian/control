@@ -1,0 +1,25 @@
+Source: zelda-roth-se
+Section: games
+Priority: optional
+Maintainer: Nathan Moore <nathanmoore@cox.net>
+Build-Depends: debhelper (>= 9), cmake, zip
+Standards-Version: 3.9.5
+Homepage: http://www.solarus-games.org/
+Vcs-Git: git@github.com:christopho/zelda_roth_se.git
+Vcs-Browser: https://github.com/christopho/zelda_roth_se
+
+Package: zelda-roth-se
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, solarus (>=1.5.0), solarus (<< 1.6.0)
+Description: A Solarus Engine port of The Legend of Zelda: Return of the Hylian
+ Zelda Return of the Hylian Solarus Edition is a remake of the original Zelda Return of the
+ Hylian, a short but pleasant fangame from Vincent Jouillat.
+ The original game was developed in C++ and was released in 2009.
+ .
+ This new version is developed with the Solarus engine by Christopho, Mymy and Vincent Jouillat.
+ While this is essentially the same game, a lot of details were improved thanks to the use of Solarus.
+ .
+ For users interested in creating games with Solarus, this project is also a great source of scripts.
+ All items are scripted, including the hammer, the hookshot and the bow. There is also an elaborate dungeon room system using separators, with automatic restoration of enemies and pots.
+ .
+ The game available in French and English for now.

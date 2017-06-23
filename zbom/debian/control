@@ -1,0 +1,15 @@
+Source: zbom
+Section: games
+Priority: optional
+Maintainer: Nathan Moore <natedevv@gmail.com>
+Build-Depends: debhelper (>= 9), cmake, zip
+Standards-Version: 3.9.5
+Homepage: https://sites.google.com/site/zeldabom/
+Vcs-Git: git@github.com:wrightmat/zbom.git
+Vcs-Browser: https://github.com/wrightmat/zbom
+
+Package: zbom
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A 3rd party Solarus Quest
+ The current game consists of 8 dungeons, a full overworld along with side quests and character interaction. More side quests may be added in future versions.

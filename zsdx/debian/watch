@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/zsdx-$1\.tar\.gz/ \
+  https://github.com/solarus-games/zsdx/tags .*/v?(\d\S+)\.tar\.gz

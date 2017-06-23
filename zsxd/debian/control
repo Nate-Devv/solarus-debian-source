@@ -1,0 +1,17 @@
+Source: zsxd
+Section: games
+Priority: optional
+Maintainer: Nathan Moore <nathanmoore@cox.net>
+Build-Depends: debhelper (>= 9), cmake, zip
+Standards-Version: 3.9.5
+Homepage: http://www.solarus-games.org/
+Vcs-Git: git@github.com:christopho/zsxd.git
+Vcs-Browser: https://github.com/christopho/zsxd
+
+Package: zsxd
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, solarus (>=1.5.0), solarus (<< 1.6.0)
+Description: A parodic Solarus Engine game.
+ Zelda Mystery of Solarus XD is a parodic game that we released on April 1st, 2011.
+ Though it’s a big April 1st joke, it’s a real, full game with two huge dungeons and
+ 5-10 hours of playing.
