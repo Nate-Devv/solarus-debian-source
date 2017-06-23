@@ -1,7 +1,7 @@
 Source: zelda-roth-se
 Section: games
 Priority: optional
-Maintainer: Nathan Moore <nathanmoore@cox.net>
+Maintainer: Nathan Moore <natedevv@gmail.com>
 Build-Depends: debhelper (>= 9), cmake, zip
 Standards-Version: 3.9.5
 Homepage: http://www.solarus-games.org/
