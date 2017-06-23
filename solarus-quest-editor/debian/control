@@ -2,7 +2,7 @@ Source: solarus-quest-editor
 Section: games
 Priority: optional
 Maintainer: Nathan Moore <natedevv@gmail.com>
-Build-Depends: debhelper (>= 9), cmake (>= 2.8.11), qtbase5-dev (>= 5.2), qttools5-dev (>= 5.2), qttools5-dev-tools (>=5.2), libsolarus-dev (>= 1.5.0), libsolarus-dev (<< 1.6.0), libsolarus (>= 1.5.0), libsolarus (<< 1.6.0), libsdl2-dev (>=2.0.1), libsdl2-image-dev, libsdl2-ttf-dev (>= 2.0.12), libluajit-5.1-dev, libphysfs-dev, libopenal-dev, libmodplug-dev (>= 0.8.8.4), libvorbis-dev
+Build-Depends: debhelper (>= 9), cmake (>= 2.8.11), qtbase5-dev (>= 5.2), qttools5-dev (>= 5.2), qttools5-dev-tools (>=5.2), libsolarus-dev (>= 1.5.0), libsolarus-dev (<< 1.6.0), libsolarus (>= 1.5.0), libsolarus (<< 1.6.0), libsdl2-dev (>=2.0.1), libsdl2-image-dev, libsdl2-ttf-dev (>= 2.0.12), libluajit-5.1-dev, libphysfs-dev, libopenal-dev, libmodplug-dev (>= 0.8.8.4), libvorbis-dev, libsndio-dev
 Standards-Version: 3.9.8
 Homepage: http://www.solarus-games.org/
 #Vcs-Git: git@github.com:christopho/solarus-quest-editor.git

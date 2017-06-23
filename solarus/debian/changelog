@@ -1,5 +1,11 @@
-solarus-quest-editor (1.5.0-1) unstable; urgency=low
+solarus (1.5.3-2) stretch; urgency=medium
 
-  * Initial release. (Closes: #XXXXXX)
+  * Add libsndio-dev to explicit build-depends for building.
 
- -- Nathan Moore <natedevv@gmail.com>  Sun, 18 Sep 2016 13:53:56 -0700
+ -- Nathan Moore <natedevv@gmail.com>  Thu, 22 Jun 2017 16:51:06 -0700
+
+solarus (1.5.3-1) stretch; urgency=medium
+
+  * Initial release on the OpenSUSE build network.
+
+ -- Nathan Moore <natedevv@gmail.com>  Thu, 22 Jun 2017 16:26:48 -0700
