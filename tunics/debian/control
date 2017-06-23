@@ -1,0 +1,18 @@
+Source: tunics
+Section: games
+Priority: extra
+Maintainer: Nathan Moore <natedevv@gmail.com>
+Build-Depends: debhelper (>= 9), cmake, zip
+Standards-Version: 3.9.8
+Homepage: http://tunics.legofarmen.se/
+#Vcs-Git: https://anonscm.debian.org/collab-maint/tunics.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/tunics.git
+
+Package: tunics
+Architecture: all
+Depends: ${misc:Depends}
+Description: Rogue-like Solarus quest
+ Tunics! is a roguelike-like zelda game based of the look and mechanics of
+ The legend of Zelda – A link to the past for SNES running on the Solarus engine.
+ It’s a tier-based action RPG where you progress through an endless line of dungeons,
+ each generated randomly.
